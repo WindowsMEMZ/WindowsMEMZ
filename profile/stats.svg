@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mark Chan's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 18, Total Commits  (last year) : 1179, Total PRs: 271, Total Issues: 75, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 18, Total Commits  (last year) : 1183, Total PRs: 271, Total Issues: 75, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 76.46688146865303;
+        stroke-dashoffset: 76.44930342336025;
       }
     }
   
